@@ -19,7 +19,7 @@ class LoginPage extends StatelessWidget {
             children: [
               Icon(Icons.shopping_bag_outlined, size: 80, color: AppTheme.primary),
               const SizedBox(height: 10),
-              Text("Toko Awikwak", style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold, color: AppTheme.primary)),
+              Text("Toko Wakaka People", style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold, color: AppTheme.primary)),
               const SizedBox(height: 40),
               Container(
                 padding: const EdgeInsets.all(20),
